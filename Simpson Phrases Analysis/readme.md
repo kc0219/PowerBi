@@ -1,4 +1,4 @@
-# Simpson Phrases Analysis
+# Simpson's Phrases Analysis
 
 ### Description
 Created an analysis of the American TV show "The Simpsons" to find the famous phrases uttered most in this show.
