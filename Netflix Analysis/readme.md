@@ -12,7 +12,7 @@ When looking at the movies releasing, on the whole between 2008 and 2021, we had
 On this note we realize that contents releasing in the OTT Streaming platform has started to increase since COVID-19 began. This could fairly bring down the number audience going to down to theatres if OTT platforms started improving quality of the content.
 
 Links and Images Attached: 
-1. Data Cleaning Pipeline Script : https://github.com/Muthu2110/pythonProject/tree/main/Data%20Cleaning%20For%20Netflix
+1. Data Cleaning Pipeline Script : https://github.com/Muthu2110/pythonProject/tree/main/Data%20Cleaning%20For%20Netflix (You can find the data here)
 2. Content Showing Movies Vs Tv Shows between 2008 and 2021 across all countries : Image1.png
 3. Content Showing TvShows released between 2008 and 2021 across all countries: Image2.png
 3. Content Showing TvShows released between 2020 and 2021 across all countries: Image3.png
